@@ -455,6 +455,10 @@ hr {
     overflow: scroll;
 }
 
+.payment_options::-webkit-scrollbar {
+    display: none;
+}
+
 .option_info {
     background-color: #EF4464;
     padding: 5%;
